@@ -1,0 +1,30 @@
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("Todo"
+ (filename . "c:/Users/leogc/OneDrive/Todo/")
+ (front-context-string . "convert.bat\n  -r")
+ (rear-context-string . " 26 06-17 14:05 ")
+ (position . 246))
+("research.md"
+ (filename . "c:/Users/leogc/OneDrive/Todo/research.md")
+ (front-context-string . "```\n ______     ")
+ (rear-context-string)
+ (position . 1))
+("tasks.md"
+ (filename . "c:/Users/leogc/OneDrive/Todo/tasks.md")
+ (front-context-string . "\n# Reimburse PCB")
+ (rear-context-string . "rt something @a\n")
+ (position . 1730))
+("events.md"
+ (filename . "c:/Users/leogc/OneDrive/Todo/events.md")
+ (front-context-string . " \nESA North Amer")
+ (rear-context-string . "\nDEADLINES\n```  ")
+ (position . 223))
+("Emacs: Config"
+ (filename . "~/.emacs")
+ (front-context-string . ";;;;;;;;;;;;;;;;")
+ (rear-context-string)
+ (position . 1))
+)
